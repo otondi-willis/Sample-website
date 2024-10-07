@@ -1,0 +1,29 @@
+.nav{
+    height:50px;
+    background:#c00100;
+}
+.nav div{
+    display: inline-block;
+    position:absolute;
+    left:0;
+    padding:15px;
+    font-size: 20px;
+    color:white;
+}
+
+.nav ul{
+    position:absolute;
+    right:5px;
+}
+.nav ul li{
+    display: inline-block;
+}
+.nav ul li a{
+    color:white;
+    padding:5px;
+}
+.home{
+    background:url("../images/background.PNG");
+    background-size: cover;
+    height: 100vh;
+}
