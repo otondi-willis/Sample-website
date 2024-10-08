@@ -27,3 +27,7 @@
     background-size: cover;
     height: 100vh;
 }
+.about-content{
+    margin:150px auto 0 auto;
+    width:500px;
+}
