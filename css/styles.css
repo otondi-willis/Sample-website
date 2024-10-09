@@ -21,7 +21,7 @@
     font-size: 20px;
     color:white;
 }
-.services-content{
+.services-content, .contact-content{
     margin:80px auto 0 auto;
     text-align: center;
 }
@@ -39,7 +39,7 @@
 .card-container ul li p{
     text-align: justify;
 }
-.services-content h1{
+.services-content h1, .contact-content h1{
     font-family: 'Roboto',sans-serif;
     color: red;
 }
@@ -48,6 +48,7 @@
     font-family: 'Lato', sans-serif;
     color: green;
 }
+
 /*
 
  
