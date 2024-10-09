@@ -39,6 +39,15 @@
 .card-container ul li p{
     text-align: justify;
 }
+.services-content h1{
+    font-family: 'Roboto',sans-serif;
+    color: red;
+}
+.card-container ul li p{
+    text-align: justify;
+    font-family: 'Lato', sans-serif;
+    color: green;
+}
 /*
 
  
