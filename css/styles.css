@@ -2,6 +2,17 @@
     height:50px;
     background:#c00100;
 }
+.nav ul li{
+    display: inline-block;
+}
+.nav ul{
+    position:absolute;
+    right:5px;
+}
+.nav ul li a{
+    color:white;
+    padding:5px;
+}
 .nav div{
     display: inline-block;
     position:absolute;
@@ -10,18 +21,30 @@
     font-size: 20px;
     color:white;
 }
+.services-content{
+    margin:80px auto 0 auto;
+    text-align: center;
+}
+.card-container ul{
+    padding:0;
 
-.nav ul{
-    position:absolute;
-    right:5px;
 }
-.nav ul li{
+.card-container ul li{
+    list-style:none;
     display: inline-block;
+    margin:20px;
+    width: 300px;
+
 }
-.nav ul li a{
-    color:white;
-    padding:5px;
+.card-container ul li p{
+    text-align: justify;
 }
+/*
+
+ 
+
+
+
 .home{
     background:url("../images/background.PNG");
     background-size: cover;
@@ -34,10 +57,12 @@
 .about-content h1{
     text-align: center;
     font-family: 'Roboto', sans-serif;
+    color: red;
     
 }
 .about-content p{
     text-align: justify;
     font-family: 'Lato', sans-serif;
+    color: green;
     
-}
+} */
