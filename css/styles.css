@@ -34,7 +34,6 @@
     display: inline-block;
     margin:20px;
     width: 300px;
-
 }
 .card-container ul li p{
     text-align: justify;
@@ -48,11 +47,10 @@
     font-family: 'Lato', sans-serif;
     color: green;
 }
+.contact-content.address-holder{
+    font-family: 'Lato', Impact;
 
-/*
-
- 
-
+}
 
 
 .home{
@@ -75,4 +73,4 @@
     font-family: 'Lato', sans-serif;
     color: green;
     
-} */
+} 
